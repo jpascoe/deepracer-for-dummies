@@ -5,6 +5,9 @@ This repo adds some additional functionanlity such as a GUI and a lot of under-t
 Please refer to his repo to understand more about what's going on under the covers.
 For additional help, submit an issue or join the [deepracer slack](join.deepracing.io) for some more support. 
 
+# Video Instructions
+[![Video Instructions](https://img.youtube.com/vi/CFNcKmtVRSI/0.jpg)](https://www.youtube.com/watch?v=CFNcKmtVRSI)
+
 # Getting Started
 ---
 #### Prerequisites
